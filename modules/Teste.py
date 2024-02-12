@@ -36,4 +36,22 @@ def charada_2():
     print("Resposta incorreta. O número correto é 7.")
 
 
+def charada_3():
+  """
+  Esta função apresenta a charada 3 e verifica a resposta do usuário.
+  """
+  print("Charada 3:")
+  print("Um corpo acelerando em direção ao rosto do seu amigo a 10 m/s² tem massa similar a de uma xícara de 300 g.")
+  print("Qual a força mínima que você tem que aplicar para que ele não se machuque?")
+
+  resposta = input("Resposta: ")
+
+  if resposta == "3":
+    print("Parabéns! Você acertou!")
+  else:
+    print("Resposta incorreta. A força mínima necessária é de 3 N.")
+
+
+
+
 
