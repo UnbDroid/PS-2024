@@ -52,6 +52,3 @@ def charada_3():
     print("Resposta incorreta. A força mínima necessária é de 3 N.")
 
 
-
-
-

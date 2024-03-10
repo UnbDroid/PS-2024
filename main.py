@@ -1,4 +1,9 @@
 from modules.Teste import *
+from clock.temporizador import *
+
+# 15 seg
+relogio()
+
 
 charada_1()
 
